@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#navigation-section a{
+    color:black;
+}
+
+.text-wide{
+    letter-spacing: 0.1em;
+}
+
