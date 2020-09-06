@@ -1,4 +1,4 @@
-# openclassroom-project5
+# openclassroom-project5 (Validated)
 Random Quotes Generator for "Open Classroom Front-End Developer Path offered By DevC Medan and powered by OpenClassroom Workplace Facebook"
 
 # Project Summary 
