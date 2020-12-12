@@ -3,6 +3,7 @@ Random Quotes Generator for "Open Classroom Front-End Developer Path offered By 
 
 # Project Summary 
 ## Run index.html 
+##### Check it out : https://sintaanjelina.github.io/OCProject5/
 ### - First Version of Random Quotes Generator with capabilities to display the active (on-going) randomized quotes fragment (beginning, middle, end) with multidimensional array encapsulated with class, using inheritance, and object .
 Here are the requirements and feature fulfilled : 
 1. The quotes are generated randomly one by one with each JavaScript call
